@@ -1,4 +1,4 @@
-# kubernetes-security
+# kubernetes-monitoring
 
 1. В namespace default кластера установлен Prometheus.
 2. Подготовлен Docker-образ nginx с работающей страницей /basic_status .
